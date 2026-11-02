@@ -8,7 +8,7 @@ char* mycpy(char* dest, const char* src) {
         idx++;
     }
     dest[idx] = '\0';
-    
+
     return dest;
 } 
 
